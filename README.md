@@ -14,11 +14,11 @@ Este proyecto permite clasificar mensajes en tres categorías: **Urgente**, **Mo
 
 ## Estructura del proyecto
 
-clasificador-mensajes/
-├── classificador.py 
-├── main.py 
-├── app.py 
-└── README.md 
+        clasificador-mensajes/
+        ├── classificador.py 
+        ├── main.py 
+        ├── app.py 
+        └── README.md 
 
 ## Instalación
 
